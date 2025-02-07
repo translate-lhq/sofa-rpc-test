@@ -16,7 +16,7 @@ SOFARPC is a high-performance, high-extensibility, production-level Java RPC fra
 ## Features
 
 - No code intrusion, high-performance remote service call
-- Supports multiple service routing and load balancing policies
+- Supports multiple service routing and load balancing polisdfadfasdfascies
 - Supports multiple service registries
 - Supports multiple protocols
 - Supports multiple invoke type, such as synchronous, oneway, callback, generalized and more.
